@@ -1,1 +1,1 @@
-Used datastructure -doubly linked list
+Used datastructure ->  doubly linked list
